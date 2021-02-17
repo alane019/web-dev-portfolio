@@ -1,8 +1,8 @@
-## Web Portfolio
+## Web Dev Portfolio
 
 **Overview**
 
-[alane019.github.io/web-portfolio/](https://alane019.github.io/web-portfolio/)
+[alane019.github.io/web-dev-portfolio/](https://alane019.github.io/web-dev-portfolio/)
 
 This is Adam Lane's current web portfolio.
 
@@ -12,7 +12,7 @@ More to come soon.
 
 ## Table of Contents
 
-- [web-portfolio](#web-portfolio)
+- [web-dev-portfolio](#web-portfolio)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [examples](#examples)
