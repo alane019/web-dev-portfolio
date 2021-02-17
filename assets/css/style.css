@@ -1,0 +1,117 @@
+
+html, body{
+   background-color:rgba(255, 255, 255, 0.863);
+}
+
+#contact-list{
+   list-style-type: none;
+}
+
+#pageContainer{
+   background-color: rgba(109, 109, 109, 0.411);
+   max-width: 734px;
+   margin-top: 5px;
+   padding: 20px 30px 300px 30px;
+   box-shadow: rgba(58, 58, 58, 0.377) 2px 2px 3px 2px; 
+  }
+  
+.header-row {
+ max-width: 734px;
+}
+
+#site-name {
+color: #2d2d2d;
+font-size: 2.5rem;
+ 
+}
+
+.nav-row-container-column{
+   padding-top: .25rem;
+   padding-bottom: .25rem;
+}
+
+.nav-button-row {
+   padding-top: .25rem;
+   padding-bottom: .25rem;
+   padding-left: 1rem;
+   padding-right: 1rem;
+}
+
+.nav-link-div-container{
+   padding-top: .25rem;
+   padding-bottom: .25rem;
+   text-align: center;
+   margin: 2px;
+   border: white inset 2px;
+   background-color: #2d2d2d ;
+   color: rgb(255, 255, 255);
+   text-decoration: none;
+   /* border: rgb(75, 73, 73) solid 3px; */
+   border-radius: 6px;
+   letter-spacing: 1.5px;
+   line-height: 45px;
+   background-color: #2f3036;
+   text-decoration: none;
+}
+
+.nav-link-item a {
+   font-size: 15px;
+   color: rgb(255, 255, 255);
+} 
+ 
+.nav-link-no-stack:hover{
+   text-decoration: none;
+}
+
+.nav-link-div-container:hover{
+   background-color: #5a5a5ae8;
+   cursor: pointer;
+}
+
+div .currentTab{
+   opacity: .55;
+   cursor: default;
+   text-shadow: 0 0 2px black; 
+}
+
+.currentTab:hover{
+   cursor: default;
+   text-shadow: 0 0 2px black; 
+   text-decoration: none;
+   text-shadow: none;
+   background-color: #2d2d2d ;
+}
+
+.currentTab a:hover{
+   text-decoration: none;
+   cursor: default;
+   text-decoration: none;
+   text-shadow: none;
+   background-color: #2d2d2d ;
+  
+}
+
+
+.content-body img{
+ /* height: 200px; */
+ margin: 20px;
+ margin-left: 0px;
+}
+
+#self-img {
+   height: 200px;
+   float: left;
+   margin: 20px;
+   margin-left: 0px;
+  }
+
+/* ---------------------------------- */
+
+/*Responsive Styles*/
+@media screen and (max-width : 770px){
+   /*Make dropdown links appear inline*/
+#site-name{
+   font-size: 2rem;
+}
+}
+
