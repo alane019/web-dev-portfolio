@@ -46,7 +46,6 @@ font-size: 2.5rem;
    background-color: #2d2d2d ;
    color: rgb(255, 255, 255);
    text-decoration: none;
-   /* border: rgb(75, 73, 73) solid 3px; */
    border-radius: 6px;
    letter-spacing: 1.5px;
    line-height: 45px;
@@ -91,9 +90,9 @@ div .currentTab{
   
 }
 
-
-.content-body img{
- /* height: 200px; */
+ img{
+ max-height:100%;
+ max-width:100%;
  margin: 20px;
  margin-left: 0px;
 }
@@ -110,8 +109,8 @@ div .currentTab{
 /*Responsive Styles*/
 @media screen and (max-width : 770px){
    /*Make dropdown links appear inline*/
-#site-name{
-   font-size: 2rem;
-}
+   #site-name{
+      font-size: 2rem;
+   }
 }
 
