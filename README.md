@@ -12,7 +12,7 @@ More to come soon.
 
 ## Table of Contents
 
-- [web-dev-portfolio](#web-portfolio)
+- [web-dev-portfolio](#web-dev-portfolio)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [examples](#examples)
@@ -21,7 +21,7 @@ More to come soon.
 
 ## Examples
 
-Demo is viewable here: [https://alane019.github.io/web-portfolio/](https://alane019.github.io/web-portfolio/)
+Demo is viewable here: [https://alane019.github.io/web-dev-portfolio/](https://alane019.github.io/web-dev-portfolio/)
 
 ## Usage
 
